@@ -14,10 +14,5 @@ A simple weather application made in flutter (for learning and practice).
 6. `pub get`
 7. Run this project on an emulator/physical device
 
-## Credits
-
-Huge shout-out to [Yegor Shustov](https://dribbble.com/YegorShustov) for the amazing designs!
-
-![weather](./assets/weather.png)
 
 Check out the amazing designs here - [Weather Cards](https://dribbble.com/shots/6887377-Weather-Cards)
